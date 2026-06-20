@@ -2,7 +2,11 @@
 
 - 📫 How to reach me **qiezige777@outlook.com**
 
-- 📝 I regularly write articles on **[https://keyooooo.github.io/blog/](https://keyooooo.github.io/blog/)**
+- 📝 I regularly write articles on **[Blog](https://keyooooo.github.io/blog/)**
+  
+- 📚 Improving my English and software engineering skills
+  
+- 🚀 Working toward becoming an international software engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
