@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
 - 📫 How to reach me **qiezige777@outlook.com**
 
@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ## 🚀 Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go" width="40" height="40"/>
